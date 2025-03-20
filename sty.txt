@@ -1,1 +1,1 @@
-If (code == ugly) { refactor(); }A good developer never stops learning.weblaoc
+Sometimes, code is poetry. Sometimes, it’s horror.If (code == ugly) { refactor(); }A good developer never stops learning.weblaoc
