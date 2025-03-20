@@ -1,1 +1,1 @@
-A good developer never stops learning.weblaoc
+If (code == ugly) { refactor(); }A good developer never stops learning.weblaoc
