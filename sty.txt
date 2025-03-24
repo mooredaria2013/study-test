@@ -1,1 +1,1 @@
-Git commit -am "WTF is this?"Sometimes, code is poetry. Sometimes, it’s horror.If (code == ugly) { refactor(); }A good developer never stops learning.weblaoc
+Automate everything.Git commit -am "WTF is this?"Sometimes, code is poetry. Sometimes, it’s horror.If (code == ugly) { refactor(); }A good developer never stops learning.weblaoc
