@@ -1,1 +1,1 @@
-Write code that even your grandma can understand.Automate everything.Git commit -am "WTF is this?"Sometimes, code is poetry. Sometimes, it’s horror.If (code == ugly) { refactor(); }A good developer never stops learning.weblaoc
+Programming is thinking, not typing.Write code that even your grandma can understand.Automate everything.Git commit -am "WTF is this?"Sometimes, code is poetry. Sometimes, it’s horror.If (code == ugly) { refactor(); }A good developer never stops learning.weblaoc
